@@ -2,20 +2,12 @@
 template: index-page
 slug: /
 title: Phil Allcock
-tagline: Author and Copywriter
-featuredImage: /assets/toa-heftiba-0rlfirsdvzu-unsplash.jpg
+tagline: Author, copywriter and photographer
+featuredImage: /assets/yannick-pulver-hopx_jpvtrm-unsplash.jpg
 cta:
   ctaText: Know more
   ctaLink: /about
 ---
-**Writing that brings results**
-
-* Effective marketing and PR copywriting
-* Creative writing for books, TV and radio
-* Award-winning photography
-
-Are you sending out the right messages to your customers?
-
 I can help you to:
 
 *  Show your business and its products and services in the most favourable light
