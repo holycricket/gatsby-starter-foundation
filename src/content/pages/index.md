@@ -1,7 +1,7 @@
 ---
 template: index-page
 slug: /
-title: Phil Allock
+title: Phil Allcock
 tagline: Author and Copywriter
 featuredImage: /assets/toa-heftiba-0rlfirsdvzu-unsplash.jpg
 cta:
